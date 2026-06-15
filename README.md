@@ -237,7 +237,7 @@ Developed as part of the AI & Intelligent Systems track for welfare accessibilit
 
 - Name 1 Suchet Goel
 - Name 2 @Samruddhi2305
-- Name 3 (@github_username)
+- Name 3 @vaishnavisj-tech
 - Name 4 (@github_username)
 
 **Team Name:** Welfare Wizards 🪄
